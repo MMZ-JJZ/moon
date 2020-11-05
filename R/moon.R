@@ -1,0 +1,3 @@
+moon < function() {
+    print("moon")
+}
